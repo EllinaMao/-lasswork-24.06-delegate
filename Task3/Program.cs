@@ -24,7 +24,11 @@ namespace Task3
             Arifmetic.IsNum(num, Arifmetic.IsPrime, "Простое число");
             Arifmetic.IsNum(num, Arifmetic.IsFibonacci, "Число Фибоначчи");
             
+            //можно и так
+            Predicate<int> isEven = Arifmetic.IsEven;
+            bool result = isEven.Invoke(num); // вызов через Invoke
 
+            Console.WriteLine("Число: {0}\n",result ?$"Четное":"Нечетное");
 
         }
     }
