@@ -28,7 +28,7 @@ namespace Task3
             Predicate<int> isEven = Arifmetic.IsEven;
             bool result = isEven.Invoke(num); // вызов через Invoke
 
-            Console.WriteLine("Число: {0}\n",result ?$"Четное":"Нечетное");
+            Console.WriteLine("Число: {0}\n",result ?"Четное":"Нечетное");
 
         }
     }
