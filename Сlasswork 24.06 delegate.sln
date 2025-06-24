@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1", "Сlasswork 24.06 delegate\task1.csproj", "{86A261C5-A284-481E-BD09-7DCFA91C8590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{C66D7F57-BAFA-4B62-B17C-D984A586C6CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A261C5-A284-481E-BD09-7DCFA91C8590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A261C5-A284-481E-BD09-7DCFA91C8590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A261C5-A284-481E-BD09-7DCFA91C8590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A261C5-A284-481E-BD09-7DCFA91C8590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66D7F57-BAFA-4B62-B17C-D984A586C6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66D7F57-BAFA-4B62-B17C-D984A586C6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66D7F57-BAFA-4B62-B17C-D984A586C6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66D7F57-BAFA-4B62-B17C-D984A586C6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E47A4D02-31D0-4BC5-A299-A699C8C6EBAE}
+	EndGlobalSection
+EndGlobal
